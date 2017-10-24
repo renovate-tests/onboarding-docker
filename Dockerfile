@@ -1,2 +1,2 @@
-FROM node:6.10
+FROM node:wheezy
 RUN something
