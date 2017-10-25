@@ -2,5 +2,6 @@
   "extends": [
     "config:base",
     "preview:dockerVersions"
-  ]
+  ],
+  "packageFiles": ["backend/package.json", "Dockerfile"]
 }
