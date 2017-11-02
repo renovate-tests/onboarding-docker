@@ -16,7 +16,7 @@ Package.on_use(function(api) {
 	api.add_files('saml_client.js', 'client');
 });
 
-Npm.depends({
+Npm.dddepends({
 	'xml2js': '0.2.0',
 	'xml-crypto': '0.6.0',
 	'xmldom': '0.1.19',
