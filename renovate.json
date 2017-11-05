@@ -1,9 +1,0 @@
-{
-  "extends": [
-    "config:base"
-  ],
-  "docker": {
-    "minor": { "enabled": true },
-    "major": { "enabled": true }
-  }
-}
