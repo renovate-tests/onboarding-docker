@@ -1,2 +1,2 @@
-FROM node:6.9-onbuild@sha256:ed130e71d345052c37da3b3aaf4999f8821646ffe244ef823427f4a5fc89b as base
+FROM node:8.9-onbuild@sha256:e588e8b1fff103ee4e3ed9943016c9947ab5e1ac7d68320b0420da8b4d57876a
 RUN something
