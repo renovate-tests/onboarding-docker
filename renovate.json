@@ -2,6 +2,6 @@
   "extends": [
     "config:base"
   ],
-  "bumpVersion": "patch",
+  "bumpVersion": "minor",
   "prHourlyLimit": 0
 }
